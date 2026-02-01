@@ -1,19 +1,4 @@
-<p align="center">
-  <img src="https://github.com/NBBotz/Images/blob/main/Lucia-Filter-Bot.jpeg">
-</p>
 
-<h1 align="center">Lucia Filter Bot</h1>
-
-<p align="center">
-  <a href="https://t.me/SilentXBotz_Support">
-    <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
-  </a>
-  <a href="http://t.me/Lucia_Filter_Bot">
-    <img src="https://img.shields.io/badge/Demo%20Bot-Click%20Here-green?style=for-the-badge&logo=telegram">
-  </a>
-</p>
-
----
 
 ## Features  
 
